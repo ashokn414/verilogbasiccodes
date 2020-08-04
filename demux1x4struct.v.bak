@@ -1,0 +1,14 @@
+module demux1x4 (
+input d,s0,s1,
+output d0,d1,d2,d3);
+
+wire sb0,sb1;
+not(sb0,s0);
+not(sb1,s1);
+and(d0,d,sb0,sb1);
+and(d1,d,sb1,s0);
+and(d2,d,s1,sb0);
+and(d3,d,s1,s0);
+
+endmodule
+

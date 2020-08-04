@@ -1,0 +1,17 @@
+module fanand (
+input a,b,c,
+output s,co);
+wire t1,t2,t3,t4,t5,t6,t7,t8;
+
+nand(t1,a,b);
+nand(t2,t1,a);
+nand(t3,t1,b);
+nand(t4,t2,t3);
+nand(t5,c,t4);
+nand(t6,t5,t4);
+nand(t7,t5,c);
+nand(s,t6,t7);
+nand(co,t1,t5);
+
+endmodule
+

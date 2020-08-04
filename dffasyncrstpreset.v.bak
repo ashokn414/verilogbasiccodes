@@ -1,0 +1,11 @@
+module dffasyncrstprst (
+input d,clk,prst,rst,
+output reg q);
+
+always @(posedge clk or posedge prst or negedge rst)
+begin
+if (prst==1 || rst==0)  q <= 1'b0;
+else    q<=d;
+end
+endmodule
+

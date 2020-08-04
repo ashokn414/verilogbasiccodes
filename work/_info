@@ -1,0 +1,1381 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Modeltech_pe_edu_10.4a/examples/SION Internship
+vadd_sub
+!s110 1596531235
+!i10b 1
+!s100 =Z2:1=B::]df1admdzBKa0
+Ih]GUK`o2lWI]>lWOJ>gM`3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1596531233
+Z2 8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_sub.v
+Z3 FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_sub.v
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1596531235.000000
+Z5 !s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_sub.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_sub.v|
+!s101 -O0
+!i113 1
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vadd_subb
+!s110 1596513527
+!i10b 1
+!s100 n@]K8^j31>5zfR;M:Z:<d2
+I6ab>U^E9YOCiH?SBXC04@0
+R1
+R0
+w1596513525
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_subb.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_subb.v
+L0 11
+R4
+r1
+!s85 0
+31
+!s108 1596513527.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_subb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_subb.v|
+!s101 -O0
+!i113 1
+R7
+valu
+!s110 1596538135
+!i10b 1
+!s100 FRTPW^6CRW0J0e;c0Ml2l2
+IVnHMF@Xnd]Qh[H<9dQ]kC2
+R1
+R0
+w1596535653
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/alu.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/alu.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596538135.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/alu.v|
+!s101 -O0
+!i113 1
+R7
+vbcdtoseven
+!s110 1596534601
+!i10b 1
+!s100 R6=ZW4Y`JLVYjLcRzTNIz2
+IaSeZ[PV;R344N8aMB@@[b3
+R1
+R0
+w1596422879
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/bcdtoseven.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/bcdtoseven.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596534601.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/bcdtoseven.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/bcdtoseven.v|
+!s101 -O0
+!i113 1
+R7
+vbeh8X1
+!s110 1596533967
+!i10b 1
+!s100 e:EXS9`?]X6j3QE5k;M6G1
+I:VL0aH@j12fgUaY3Cg[cb2
+R1
+R0
+w1596533957
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/8X1behaviour.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/8X1behaviour.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596533967.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/8X1behaviour.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/8X1behaviour.v|
+!s101 -O0
+!i113 1
+R7
+nbeh8@x1
+vbintogray
+!s110 1596513876
+!i10b 1
+!s100 _B:gZS[84;K<A=Y=3<PK[1
+II?zh<kQ]aj832<69nPVG_3
+R1
+R0
+w1596299502
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/btog.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/btog.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596513876.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/btog.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/btog.v|
+!s101 -O0
+!i113 1
+R7
+vcasemux4X1
+!s110 1596534336
+!i10b 1
+!s100 ^z]5G7^52@<I4PUZOoQMh1
+I1Z7l_6DBbig@hzk^c;2g@0
+R1
+R0
+w1596534334
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxcase.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxcase.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596534336.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxcase.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxcase.v|
+!s101 -O0
+!i113 1
+R7
+ncasemux4@x1
+vcomp4bit
+!s110 1596532769
+!i10b 1
+!s100 O[JU`;PlJJ68dSPbkk7T_2
+ITbaFSSPE0Y;QAFP4MiQ^G3
+R1
+R0
+w1596386384
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitcomparator.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitcomparator.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596532769.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitcomparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitcomparator.v|
+!s101 -O0
+!i113 1
+R7
+vcounterup
+!s110 1596537967
+!i10b 1
+!s100 ?VBROAaJi3PUneg_<kajC0
+IH5JzDnL01l>DGD3Me0@Cg3
+R1
+R0
+w1596450575
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitupcounter.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitupcounter.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596537967.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitupcounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitupcounter.v|
+!s101 -O0
+!i113 1
+R7
+vcounterupdown
+!s110 1596450975
+!i10b 1
+!s100 g^65eRHi7]g:9GE6oi`Fc0
+I@:4Q1lc=n4<01?81NEacH1
+R1
+R0
+w1596450972
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/counterupdown.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/counterupdown.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596450975.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/counterupdown.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/counterupdown.v|
+!s101 -O0
+!i113 1
+R7
+vdec2x4
+!s110 1596516656
+!i10b 1
+!s100 ead<>fz:k=o3d=Nlg:eUI2
+I1>L6_6[K1aa0OXUGA>VfL0
+R1
+R0
+w1596515194
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/2_4 decoder.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/2_4 decoder.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596516656.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/2_4 decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/2_4 decoder.v|
+!s101 -O0
+!i113 1
+R7
+vdec3x8
+!s110 1596515543
+!i10b 1
+!s100 K^S8iU@QaE8D^OZY1_D6h0
+IT=3KCo:cnR:PfAS8T3<851
+R1
+R0
+w1596515539
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dec3x8.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/dec3x8.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596515543.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dec3x8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dec3x8.v|
+!s101 -O0
+!i113 1
+R7
+vdemux1x4
+!s110 1596530595
+!i10b 1
+!s100 ?P_Wn`n6QMBVgg=F@KF1Q3
+I[nPDL7@=L_ESRVKb@]1K91
+R1
+R0
+w1596381134
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/demux1x4struct.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/demux1x4struct.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596530595.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/demux1x4struct.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/demux1x4struct.v|
+!s101 -O0
+!i113 1
+R7
+vdemux1x4beh
+!s110 1596536268
+!i10b 1
+!s100 21M1YZmObYY_oG]GWAf<A3
+IP[6XQ`n;kVJn4ROH>=jbg3
+R1
+R0
+w1596536266
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/1x4demuxbehaviour.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/1x4demuxbehaviour.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596536268.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/1x4demuxbehaviour.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/1x4demuxbehaviour.v|
+!s101 -O0
+!i113 1
+R7
+vdffasyncrstprst
+!s110 1596537243
+!i10b 1
+!s100 EDHC`zcQ6SXCh;fYgQoQi1
+In1OII9N<jl_D6nP6ckQ`Y0
+R1
+R0
+w1596457141
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasyncrstpreset.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasyncrstpreset.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596537243.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasyncrstpreset.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasyncrstpreset.v|
+!s101 -O0
+!i113 1
+R7
+vdffasynprst
+!s110 1596536954
+!i10b 1
+!s100 6i=;7V^F8lTXcD>]oE45e0
+Iil?Y1aDJkzFa8bkZmQ8ek1
+R1
+R0
+w1596536952
+Z8 8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasynpreset.v
+Z9 FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasynpreset.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596536954.000000
+Z10 !s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasynpreset.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasynpreset.v|
+!s101 -O0
+!i113 1
+R7
+vdffasynrst
+!s110 1596536941
+!i10b 1
+!s100 BNP_8dW?ToJlBSIPPA=dF3
+IzW105lDoe@>[iP07J8B`_2
+R1
+R0
+w1596536936
+R8
+R9
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596536941.000000
+R10
+R11
+!s101 -O0
+!i113 1
+R7
+vdflipflop
+!s110 1596536504
+!i10b 1
+!s100 dM3W:KEfK2]kT>9RmeGL^3
+IW2mKQG0^b3FU^Z^zZ9B8`0
+R1
+R0
+w1596424559
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dflipflop.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/dflipflop.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596536504.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dflipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dflipflop.v|
+!s101 -O0
+!i113 1
+R7
+vdlatchen
+!s110 1596537653
+!i10b 1
+!s100 SBcHiIjZgRI`kK8dfcbGW0
+IHaPSGmFeG_MM:Y1niF?`10
+R1
+R0
+w1596537649
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dlatchenable.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/dlatchenable.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596537653.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dlatchenable.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dlatchenable.v|
+!s101 -O0
+!i113 1
+R7
+vfa
+!s110 1596531679
+!i10b 1
+!s100 z8NfhnFAfCIlGSeWe=G652
+I:gnU>=[VMad8YMN81F==C3
+R1
+R0
+w1596298883
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fa.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/fa.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1596531679.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fa.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fa.v|
+!s101 -O0
+!i113 1
+R7
+vfaconcat
+!s110 1596530219
+!i10b 1
+!s100 XejAz0H@g4GGY8Do]6:3C3
+IzK=jWdlfj?S=3LT>lBm790
+R1
+R0
+w1596530217
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconcat.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconcat.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596530219.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconcat.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconcat.v|
+!s101 -O0
+!i113 1
+R7
+vfaconditional
+!s110 1596516848
+!i10b 1
+!s100 DzTUd6LLSTF@kY[Uho:J20
+I<7eNdIOcC<DDm^a[14KcK0
+R1
+R0
+w1596516846
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconditional.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconditional.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596516848.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconditional.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconditional.v|
+!s101 -O0
+!i113 1
+R7
+vfanamed
+!s110 1596381528
+!i10b 1
+!s100 1;G0D?N_>7>O?KZAmRc^D1
+I9ENT5O85Bm7E5XFGkC4A`0
+R1
+R0
+w1596381521
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitaddermapping.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitaddermapping.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596381528.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitaddermapping.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitaddermapping.v|
+!s101 -O0
+!i113 1
+R7
+vfanand
+Z12 !s110 1596533471
+!i10b 1
+!s100 OgD3Ge_L@fn>RW_fIie^F1
+I6ioG=oSm^:;W[?B1XgGe72
+R1
+R0
+Z13 w1596533432
+Z14 8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fanand.v
+Z15 FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/fanand.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z16 !s108 1596533471.000000
+Z17 !s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fanand.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fanand.v|
+!s101 -O0
+!i113 1
+R7
+vfanand4bit
+R12
+!i10b 1
+!s100 Fi?VVS_LBz`2Zj[4RjYUV1
+If72]82VVX0C[Ac<_FgLNb3
+R1
+R0
+R13
+R14
+R15
+L0 17
+R4
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+!i113 1
+R7
+vfastructural
+!s110 1596523493
+!i10b 1
+!s100 mWC;@nChGhL@1CWjP@VjX3
+I^n6GjBR<1`dab@oIoCAm00
+R1
+R0
+w1596523491
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fastructural.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/fastructural.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1596523493.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fastructural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fastructural.v|
+!s101 -O0
+!i113 1
+R7
+vfull_adder3
+!s110 1596304595
+!i10b 1
+!s100 n:Z0n<]8]W[9b@445?@h30
+IZ9kDQ9nNP7>U3W9?h;J8Y2
+R1
+R0
+w1596210466
+8C:/Modeltech_pe_edu_10.4a/examples/full_adder3.v
+FC:/Modeltech_pe_edu_10.4a/examples/full_adder3.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1596304595.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/full_adder3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/full_adder3.v|
+!s101 -O0
+!i113 1
+R7
+vfullbitaddnamed
+!s110 1596533440
+!i10b 1
+!s100 P7nRTe3Yod1ldkm=GidH`3
+IE@HZ2]e8Nc@izzm^?NBGY1
+R1
+R0
+w1596531255
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596533440.000000
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+vgraytobin
+!s110 1596514281
+!i10b 1
+!s100 d7>d<6^Q@GPEKX=43@KMZ2
+I84T75U5[MB7Ri^_?YQUnm3
+R1
+R0
+w1596299710
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/gtob.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/gtob.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596514280.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/gtob.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/gtob.v|
+!s101 -O0
+!i113 1
+R7
+vha
+!s110 1596523199
+!i10b 1
+!s100 V4LhA=1mG>>A]EC[<GE8i0
+Izh;2FlJgWFGzUOW5OI2Q72
+R1
+R0
+w1596523192
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/ha.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/ha.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596523199.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/ha.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/ha.v|
+!s101 -O0
+!i113 1
+R7
+vjohnsoncounter
+!s110 1596541684
+!i10b 1
+!s100 K^fZZo>@X`dBUdgoX5WO@2
+ICizjM;4TA]`SYoIU<3aF?0
+R1
+R0
+w1596541683
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/johnsoncounter.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/johnsoncounter.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596541684.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/johnsoncounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/johnsoncounter.v|
+!s101 -O0
+!i113 1
+R7
+vlatch_d
+!s110 1596432580
+!i10b 1
+!s100 lAC8QiT6gJ[[X]11aD<Kc0
+IfQFOJP3NmIbm9g5X1l=6Y0
+R1
+R0
+w1590039402
+8C:/Modeltech_pe_edu_10.4a/examples/d_ltch.v
+FC:/Modeltech_pe_edu_10.4a/examples/d_ltch.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1596432580.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/d_ltch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/d_ltch.v|
+!s101 -O0
+!i113 1
+R7
+vmealy1
+Z19 !s110 1596304594
+!i10b 1
+!s100 =1N;W1CcU20Q`;YJYCeAk2
+I]c@Az;iT7SO5GmzPEdab;2
+R1
+R0
+w1595862845
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealyone.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealyone.v
+L0 2
+R4
+r1
+!s85 0
+31
+Z20 !s108 1596304594.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealyone.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealyone.v|
+!s101 -O0
+!i113 1
+R7
+vmealy101
+!s110 1596543775
+!i10b 1
+!s100 jXWYdK>PbHWj`ALDNQGGa0
+IDe6zUm[>7Q[oeJ<FGbloW0
+R1
+R0
+w1596476447
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596543774.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101.v|
+!s101 -O0
+!i113 1
+R7
+vmealy10101
+Z21 !s110 1596304593
+!i10b 1
+!s100 UEfKFPaVIM@c3L:XbHlj]1
+ID221OEze15i?<]?7>ZXHS1
+R1
+R0
+w1595857046
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy10101.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy10101.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z22 !s108 1596304593.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy10101.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy10101.v|
+!s101 -O0
+!i113 1
+R7
+vmealy1011
+!s110 1596545606
+!i10b 1
+!s100 AjHcYG4ll0?^PY3LNoF_62
+IG?]O^WX8WdYXVUiBA<9[N0
+R1
+R0
+w1596475616
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/1011.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/1011.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596545606.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/1011.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/1011.v|
+!s101 -O0
+!i113 1
+R7
+vmealy101101
+R19
+!i10b 1
+!s100 F1;c<@GRQR5ELTAKZT`o`1
+Im3BPObYgl4i0BXeV6U[Gm2
+R1
+R0
+w1596084811
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101101.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101101.v
+L0 1
+R4
+r1
+!s85 0
+31
+R20
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101101.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101101.v|
+!s101 -O0
+!i113 1
+R7
+vmealy11
+!s110 1596503679
+!i10b 1
+!s100 T]<OiX4c9ejkRjET_aK^43
+IoGOF:AlT2d9US0j6h>J4j3
+R1
+R0
+w1596503675
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy11.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy11.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596503679.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy11.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy11.v|
+!s101 -O0
+!i113 1
+R7
+vmealy_fsm
+R21
+!i10b 1
+!s100 BfDDlM0i=I65B[@_6TCFf0
+I7T1]bjQ;fOIIkeZk05Enn2
+R1
+R0
+w1595858136
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fsm_mealy.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/fsm_mealy.v
+L0 1
+R4
+r1
+!s85 0
+31
+R22
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fsm_mealy.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fsm_mealy.v|
+!s101 -O0
+!i113 1
+R7
+vmoore1
+R19
+!i10b 1
+!s100 L5SY0?alFzc]Sa93D?nfS2
+IeP9g9:<D1Kg4@I_@GUzmY1
+R1
+R0
+w1595863261
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore2.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore2.v
+L0 2
+R4
+r1
+!s85 0
+31
+R20
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore2.v|
+!s101 -O0
+!i113 1
+R7
+vmoore101
+!s110 1596544916
+!i10b 1
+!s100 S9c>2IW=^aOQIS7]IO^ki1
+IZQZKhQTcQ?X]4loSWFKKH1
+R1
+R0
+w1596544843
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596544916.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101.v|
+!s101 -O0
+!i113 1
+R7
+vmoore10101
+R21
+!i10b 1
+!s100 gN2OJe@L^hzBWZcOAi3@D0
+I5M;g_fiIV?3^U9iKeWi4]2
+R1
+R0
+w1595859416
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore10101.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore10101.v
+L0 3
+R4
+r1
+!s85 0
+31
+R22
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore10101.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore10101.v|
+!s101 -O0
+!i113 1
+R7
+vmoore1011
+!s110 1596476333
+!i10b 1
+!s100 hB7=;<>IzG@>mh6ZIc6Q63
+IU]EOdSGSZA^<Ch>aP=VJU3
+R1
+R0
+w1596476331
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore1011.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore1011.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596476333.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore1011.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore1011.v|
+!s101 -O0
+!i113 1
+R7
+vmoore101101
+R19
+!i10b 1
+!s100 0dz_]Wh^BnFPkKWTlW2Y`1
+I1LblDjPINI^FdeBi=@>9W3
+R1
+R0
+w1596085217
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101101.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101101.v
+L0 2
+R4
+r1
+!s85 0
+31
+R20
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101101.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101101.v|
+!s101 -O0
+!i113 1
+R7
+vmoore11
+!s110 1596504107
+!i10b 1
+!s100 hHO?63IU<jzZnd`>@oQXW3
+IzW[6goYmLBjK?Q2m3d?F:1
+R1
+R0
+w1596504103
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore11.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore11.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596504107.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore11.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore11.v|
+!s101 -O0
+!i113 1
+R7
+vmoore_fsm
+R21
+!i10b 1
+!s100 XfQ[fICdPcNcC<bK80YNd3
+I8M0UlOTAaR3nGS:l=j]7O1
+R1
+R0
+w1595833720
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore_fsm.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore_fsm.v
+L0 2
+R4
+r1
+!s85 0
+31
+R22
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore_fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore_fsm.v|
+!s101 -O0
+!i113 1
+R7
+vmux1
+!s110 1596531729
+!i10b 1
+!s100 Xg^H39@UIYPUZ1ngF`zmN0
+I`_HjbFJZBdYDzhNSk5LUF0
+R1
+R0
+w1596531711
+Z23 8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/8x1muxusing2x1.v
+Z24 FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/8x1muxusing2x1.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596531729.000000
+Z25 !s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/8x1muxusing2x1.v|
+Z26 !s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/8x1muxusing2x1.v|
+!s101 -O0
+!i113 1
+R7
+vmux2_1
+Z27 !s110 1596532393
+!i10b 1
+!s100 g3dE2F8AY_gX`dRfSKW0e3
+Ie_o1JlPe:mF9L4Akh514>2
+R1
+R0
+Z28 w1596532388
+R23
+R24
+L0 1
+R4
+r1
+!s85 0
+31
+Z29 !s108 1596532393.000000
+R25
+R26
+!s101 -O0
+!i113 1
+R7
+vmux2X1
+!s110 1596524311
+!i10b 1
+!s100 ^VRmm3`f4aN50N=W40d<93
+IhTERU:LcY:[Cm]j2BfVoQ0
+R1
+R0
+w1596524308
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux2X1.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux2X1.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596524310.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux2X1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux2X1.v|
+!s101 -O0
+!i113 1
+R7
+nmux2@x1
+vmux4X1
+!s110 1596529270
+!i10b 1
+!s100 eVoha65297oRVH`4T>X?72
+IQN9NGAn8CMeTVeCc`dO;J2
+R1
+R0
+w1596529264
+Z30 8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux4X1.v
+Z31 FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux4X1.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596529270.000000
+Z32 !s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux4X1.v|
+Z33 !s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux4X1.v|
+!s101 -O0
+!i113 1
+R7
+nmux4@x1
+vmux4X1truth
+!s110 1596530590
+!i10b 1
+!s100 1Ob:WzU;394liBRCPjllM3
+Ice_LhoJJJ7aQ00cAjDi=O1
+R1
+R0
+w1596530186
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxtruth.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxtruth.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596530590.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxtruth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxtruth.v|
+!s101 -O0
+!i113 1
+R7
+nmux4@x1truth
+vmux8_1
+Z34 !s110 1596304592
+!i10b 1
+!s100 58MPM2dYnhHOPRODS6S7d0
+IaXzlLkeRcnFO:6IXU@FAN2
+R1
+R0
+w1595519953
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux8_1.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux8_1.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z35 !s108 1596304592.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux8_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux8_1.v|
+!s101 -O0
+!i113 1
+R7
+vmux8x1
+!s110 1596382359
+!i10b 1
+!s100 I`DY]cF9SV0fhhhHVZSHG1
+IYA2T>O9fk_FIEmI]^BbmE0
+R1
+R0
+w1596382357
+R23
+R24
+L0 7
+R4
+r1
+!s85 0
+31
+!s108 1596382359.000000
+R25
+R26
+!s101 -O0
+!i113 1
+R7
+vmux8X1
+!s110 1596304788
+!i10b 1
+!s100 W`?b]CR[gIczAE9O<gLGF2
+Ig?Fk9[iG1=^AeUbQ]JX1N1
+R1
+R0
+w1596304784
+R30
+R31
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596304788.000000
+R32
+R33
+!s101 -O0
+!i113 1
+R7
+nmux8@x1
+vmuxx8x1
+R27
+!i10b 1
+!s100 =M0In_UdRIkc1RXzzC;_00
+IYJOkY;jXI7EUIU6aRNd:C2
+R1
+R0
+R28
+R23
+R24
+L0 9
+R4
+r1
+!s85 0
+31
+R29
+R25
+R26
+!s101 -O0
+!i113 1
+R7
+vone
+!s110 1596304597
+!i10b 1
+!s100 Vz:l63]hL8@EGQE=Z=O<;0
+Ii[F5HH=VVhN16Yj_X@Dc81
+R1
+R0
+w1595398708
+8C:/Modeltech_pe_edu_10.4a/examples/one.v
+FC:/Modeltech_pe_edu_10.4a/examples/one.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596304596.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/one.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/one.v|
+!s101 -O0
+!i113 1
+R7
+vpipo
+!s110 1596475291
+!i10b 1
+!s100 PY9PcAGD[2Q:HOSOK?l^U0
+IZ[P3TW;0XaYJf=g?TaVbz3
+R1
+R0
+w1596475288
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/pipo.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/pipo.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596475290.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/pipo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/pipo.v|
+!s101 -O0
+!i113 1
+R7
+vpiso
+!s110 1596474938
+!i10b 1
+!s100 0EW]<lBLgj5ffnUl<eNaF1
+IM[gDkB:JE^kSNTJZT4_@43
+R1
+R0
+w1596474936
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/piso.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/piso.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596474938.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/piso.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/piso.v|
+!s101 -O0
+!i113 1
+R7
+vringcounter
+!s110 1596541368
+!i10b 1
+!s100 ?TK@6`;]DV673V68kk2U^0
+Il0N>cEb;D?jKj[DLZES4o3
+R1
+R0
+w1596541366
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/ringcounter.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/ringcounter.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596541368.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/ringcounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/ringcounter.v|
+!s101 -O0
+!i113 1
+R7
+vshift
+!s110 1595396109
+!i10b 1
+!s100 1M2]L;E;W8ik[EYK4QLci2
+I7G6JzT8o=`32?Zm^0>ZZl2
+R1
+R0
+w1595083225
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/assignment4.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/assignment4.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1595396109.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/assignment4.v|
+!s90 -reportprogress|300|-work|work|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/assignment4.v|
+!s101 -O0
+!i113 1
+R7
+vshift_reg
+!s110 1596542354
+!i10b 1
+!s100 <^X=Ic`1ij0BI?c^9l7T:0
+I?jQ;D^Fib6B5GPWRVkCd51
+R1
+R0
+w1596542350
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/nbitshiftregister.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/nbitshiftregister.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1596542354.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/nbitshiftregister.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/nbitshiftregister.v|
+!s101 -O0
+!i113 1
+R7
+vsipo
+!s110 1596543053
+!i10b 1
+!s100 SXcAeDL4c?EfgMeG=UI2c0
+I@U>G?TY[TfQ`Z8F029RLH3
+R1
+R0
+w1596474199
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/sipo.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/sipo.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596543053.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/sipo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/sipo.v|
+!s101 -O0
+!i113 1
+R7
+vsiso
+!s110 1596542872
+!i10b 1
+!s100 <U]R1jPc[Mmo@;V90ZCXf2
+Ic>3B`2dViTNmH[C[gU^AN3
+R1
+R0
+w1596542860
+8C:/Modeltech_pe_edu_10.4a/examples/sisoo.v
+FC:/Modeltech_pe_edu_10.4a/examples/sisoo.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596542872.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/sisoo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/sisoo.v|
+!s101 -O0
+!i113 1
+R7
+vsramsingleport
+!s110 1596545940
+!i10b 1
+!s100 fjbG4Zke4OHBoA2GBEQ>32
+I@eI06=1VO`gF@5W;P5ABm3
+R1
+R0
+w1596545937
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/sram4wx16d.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/sram4wx16d.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1596545940.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/sram4wx16d.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/sram4wx16d.v|
+!s101 -O0
+!i113 1
+R7
+vsyn_asyn_dff
+R34
+!i10b 1
+!s100 mHY;[Qd9=ieoNif>`=zEK2
+IXDMBA2Q]3IZOHX6<>>4:<3
+R1
+R0
+w1595519306
+8C:/Modeltech_pe_edu_10.4a/examples/SION Internship/synch_asynchdff.v
+FC:/Modeltech_pe_edu_10.4a/examples/SION Internship/synch_asynchdff.v
+L0 2
+R4
+r1
+!s85 0
+31
+R35
+!s107 C:/Modeltech_pe_edu_10.4a/examples/SION Internship/synch_asynchdff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/SION Internship/synch_asynchdff.v|
+!s101 -O0
+!i113 1
+R7

@@ -1,0 +1,20 @@
+module dec3x8 (
+input en,a,b,c,
+output reg d0,d1,d2,d3,d4,d5,d6,d7);
+
+always @(a,b)
+begin
+case({en,a,b,c})
+4'b1000: d0=1;
+4'b1001: d1=1;
+4'b1010: d2=1;
+4'b1011: d3=1;
+4'b1100: d4=1;
+4'b1101: d5=1;
+4'b1110: d6=1;
+4'b1111: d7=1;
+endcase
+end
+
+endmodule
+

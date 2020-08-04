@@ -1,0 +1,425 @@
+{C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasynpreset.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasynpreset.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dffasynprst
+
+Top level modules:
+	dffasynprst
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101101.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101101.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moore101101
+
+Top level modules:
+	moore101101
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/ringcounter.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/ringcounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ringcounter
+
+Top level modules:
+	ringcounter
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dflipflop.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dflipflop.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dflipflop
+
+Top level modules:
+	dflipflop
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/full_adder3.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/full_adder3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_adder3
+
+Top level modules:
+	full_adder3
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/d_ltch.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/d_ltch.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module latch_d
+
+Top level modules:
+	latch_d
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fsm_mealy.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fsm_mealy.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy_fsm
+
+Top level modules:
+	mealy_fsm
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dlatchenable.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dlatchenable.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dlatchen
+
+Top level modules:
+	dlatchen
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitaddermapping.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitaddermapping.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fanamed
+
+Top level modules:
+	fanamed
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/assignment7.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/assignment7.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux8X1
+
+Top level modules:
+	mux8X1
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/sisoo.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/sisoo.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module siso
+
+Top level modules:
+	siso
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/ha.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/ha.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ha
+
+Top level modules:
+	ha
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy11.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy11.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy11
+
+Top level modules:
+	mealy11
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/synch_asynchdff.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/synch_asynchdff.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module syn_asyn_dff
+
+Top level modules:
+	syn_asyn_dff
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore101.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moore101
+
+Top level modules:
+	moore101
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux2_1.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux2_1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2_1
+
+Top level modules:
+	mux2_1
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/1x4demuxbehaviour.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/1x4demuxbehaviour.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module demux1x4beh
+
+Top level modules:
+	demux1x4beh
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/one.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/one.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module one
+
+Top level modules:
+	one
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux8_1.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux8_1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux8_1
+
+Top level modules:
+	mux8_1
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/sipo.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/sipo.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sipo
+
+Top level modules:
+	sipo
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxcase.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxcase.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module casemux4X1
+
+Top level modules:
+	casemux4X1
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/8x1muxusing2x1.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/8x1muxusing2x1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2_1
+-- Compiling module muxx8x1
+
+Top level modules:
+	muxx8x1
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore11.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore11.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moore11
+
+Top level modules:
+	moore11
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/bcdtoseven.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/bcdtoseven.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bcdtoseven
+
+Top level modules:
+	bcdtoseven
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/johnsoncounter.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/johnsoncounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module johnsoncounter
+
+Top level modules:
+	johnsoncounter
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasyncrst.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasyncrst.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dffasynrst
+
+Top level modules:
+	dffasynrst
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fa.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fa.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fa
+
+Top level modules:
+	fa
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/nbitshiftregister.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/nbitshiftregister.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shift_reg
+
+Top level modules:
+	shift_reg
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/pipo.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/pipo.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module pipo
+
+Top level modules:
+	pipo
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasyncrstpreset.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dffasyncrstpreset.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dffasyncrstprst
+
+Top level modules:
+	dffasyncrstprst
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/2_4 decoder.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/2_4 decoder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dec2x4
+
+Top level modules:
+	dec2x4
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/gtob.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/gtob.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module graytobin
+
+Top level modules:
+	graytobin
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore2.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moore1
+
+Top level modules:
+	moore1
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore1011.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore1011.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moore1011
+
+Top level modules:
+	moore1011
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux2X1.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux2X1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2X1
+
+Top level modules:
+	mux2X1
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore10101.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore10101.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moore10101
+
+Top level modules:
+	moore10101
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux4X1.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mux4X1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux4X1
+
+Top level modules:
+	mux4X1
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore_fsm.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/moore_fsm.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moore_fsm
+
+Top level modules:
+	moore_fsm
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconcat.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconcat.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module faconcat
+
+Top level modules:
+	faconcat
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fastructural.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fastructural.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fastructural
+
+Top level modules:
+	fastructural
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/sram4wx16d.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/sram4wx16d.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sramsingleport
+
+Top level modules:
+	sramsingleport
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_sub.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_sub.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fullbitaddnamed
+
+Top level modules:
+	fullbitaddnamed
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/1011.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/1011.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy1011
+
+Top level modules:
+	mealy1011
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/piso.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/piso.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module piso
+
+Top level modules:
+	piso
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy10101.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy10101.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy10101
+
+Top level modules:
+	mealy10101
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_subb.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/add_subb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fa
+-- Compiling module add_subb
+
+Top level modules:
+	add_subb
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/btog.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/btog.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bintogray
+
+Top level modules:
+	bintogray
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dec3x8.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/dec3x8.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dec3x8
+
+Top level modules:
+	dec3x8
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitcomparator.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitcomparator.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module comp4bit
+
+Top level modules:
+	comp4bit
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconditional.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/faconditional.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module faconditional
+
+Top level modules:
+	faconditional
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/8X1behaviour.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/8X1behaviour.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module beh8X1
+
+Top level modules:
+	beh8X1
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/alu.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy101
+
+Top level modules:
+	mealy101
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealyone.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealyone.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy1
+
+Top level modules:
+	mealy1
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101101.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/mealy101101.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy101101
+
+Top level modules:
+	mealy101101
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxtruth.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4X1muxtruth.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux4X1truth
+
+Top level modules:
+	mux4X1truth
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fanand.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/fanand.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fanand
+-- Compiling module fanand4bit
+
+Top level modules:
+	fanand
+	fanand4bit
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitupcounter.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/4bitupcounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module counterup
+
+Top level modules:
+	counterup
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/demux1x4struct.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/demux1x4struct.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module demux1x4
+
+Top level modules:
+	demux1x4
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/counterupdown.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/SION Internship/counterupdown.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module counterupdown
+
+Top level modules:
+	counterupdown
+
+} {} {}}

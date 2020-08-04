@@ -1,0 +1,12 @@
+module johnsoncounter (
+input clk,rst,
+output [3:0]q);
+reg [3:0]temp;
+always @(posedge clk)
+begin
+if(rst == 0) temp=4'b0000;
+else      temp = {~temp[0],temp[3:1]};
+
+end
+assign q = temp;
+endmodule

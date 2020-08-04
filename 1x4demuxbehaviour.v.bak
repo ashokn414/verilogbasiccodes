@@ -1,0 +1,27 @@
+module demux1x4beh (
+input [3:0]i,
+input s0,s1,
+output reg [3:0]a,b,c,d);
+
+always @(i,s0,s1)
+begin
+if({s1,s0} == 2'b00)
+begin
+a <= i;
+end
+else if({s1,s0} == 2'b01)
+begin
+b <= i;
+end
+else if({s1,s0} == 2'b10)
+begin
+c <= i;
+end
+else
+begin
+d <= i;
+end
+end
+
+endmodule
+
